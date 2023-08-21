@@ -1,6 +1,6 @@
 @echo off
 title VFProxy Launcher
-set PORT=8080
+set PORT=8585
 echo:
 echo Welcome to the VFProxy launcher.
 echo:
